@@ -24,4 +24,4 @@ This is my first project using OpenCV, where I implemented real-time face detect
    Clone this repository to your local machine:
    ```bash
    [git clone https://github.com/AdwinTS/Opencv-project.git]
-2.**please give an image as text.png**
+2.**please give an image as text.jpg**
